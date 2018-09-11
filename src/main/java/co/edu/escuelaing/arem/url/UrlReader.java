@@ -1,4 +1,4 @@
-package co.edu.escuelaing.arem.Url;
+package co.edu.escuelaing.arem.url;
 
 import java.io.*;
 import java.net.URL;
